@@ -75,6 +75,17 @@ wideband-lpda-antenna/
 Electrical and Electronics Engineering  
 RF, microwave and antenna design
 
-## Rights and Use
 
-Copyright (c) 2026 Cem Sondur. No open-source hardware licence has currently been granted. The design files are provided for review and engineering-development purposes without warranty. Verify the design independently before fabrication, RF transmission or high-power operation.
+
+## Repository maintenance
+
+**Evidence boundary:** CST simulation only; fabrication and calibrated antenna measurements remain outstanding.
+
+- [Validation status](docs/VALIDATION.md)
+- [Contribution guide](CONTRIBUTING.md)
+- [Safety and security](SECURITY.md)
+- [Citation metadata](CITATION.cff)
+
+## License
+
+Copyright (c) 2026 Cem Sondur. Distributed under the [MIT License](LICENSE). Component models and other third-party material remain subject to their original licenses.
